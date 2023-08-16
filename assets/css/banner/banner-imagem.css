@@ -1,6 +1,5 @@
 .banner-imagem {
-    background: url('../../img/banner.jpg') no-repeat center / cover;
+    background: url('../../img/banner.jpg'); no-repeat center / cover;
     height: calc(100vh - 72px);
     width: 100%;
 }
-
